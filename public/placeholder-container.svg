@@ -1,0 +1,7 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#FAF8F5"/>
+  <rect x="90" y="150" width="220" height="170" rx="8" fill="none" stroke="#D4A96C" stroke-width="2" stroke-dasharray="8 4"/>
+  <path d="M90 200 H310" stroke="#E2C898" stroke-width="1"/>
+  <path d="M90 250 H310" stroke="#E2C898" stroke-width="1"/>
+  <text x="200" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#7A6230">Container</text>
+</svg>

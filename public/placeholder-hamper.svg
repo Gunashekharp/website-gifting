@@ -1,0 +1,14 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#F5EDD3"/>
+  <rect x="80" y="140" width="240" height="180" rx="12" fill="#E2C898" stroke="#D4A96C" stroke-width="2"/>
+  <rect x="80" y="120" width="240" height="40" rx="8" fill="#D4A96C"/>
+  <path d="M200 80 L200 120" stroke="#A1833E" stroke-width="3"/>
+  <circle cx="180" cy="80" r="20" fill="none" stroke="#A1833E" stroke-width="2.5"/>
+  <circle cx="220" cy="80" r="20" fill="none" stroke="#A1833E" stroke-width="2.5"/>
+  <rect x="110" y="180" width="60" height="60" rx="6" fill="#D4A96C" opacity="0.5"/>
+  <rect x="180" y="180" width="60" height="60" rx="6" fill="#A1833E" opacity="0.5"/>
+  <rect x="250" y="180" width="60" height="60" rx="6" fill="#D4A96C" opacity="0.5"/>
+  <rect x="140" y="250" width="60" height="50" rx="6" fill="#A1833E" opacity="0.4"/>
+  <rect x="210" y="250" width="60" height="50" rx="6" fill="#D4A96C" opacity="0.4"/>
+  <text x="200" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#7A6230">Gift Hamper</text>
+</svg>

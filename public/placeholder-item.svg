@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#FBF7EC"/>
+  <rect x="50" y="50" width="100" height="100" rx="10" fill="#E2C898" stroke="#D4A96C" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="25" fill="#D4A96C" opacity="0.4"/>
+  <text x="100" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#7A6230">Item</text>
+</svg>
